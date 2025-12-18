@@ -1,0 +1,12 @@
+.\objects\nst112.o: ..\Src\nst112.c
+.\objects\nst112.o: ..\Inc\nst112.h
+.\objects\nst112.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\nst112.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\fm33lc0xx.h
+.\objects\nst112.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\core_cm0plus.h
+.\objects\nst112.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\core_cminstr.h
+.\objects\nst112.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\core_cmfunc.h
+.\objects\nst112.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\system_fm33lc0xx.h
+.\objects\nst112.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\nst112.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\fm33lc0xx.h
+.\objects\nst112.o: ..\Drivers\FM33LC0xx_LL_Driver\Inc\fm33lc0xx_ll_gpio.h
+.\objects\nst112.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\fm33xx.h

@@ -1,0 +1,13 @@
+.\objects\fm33lc0xx_ll_svd.o: ..\Drivers\FM33LC0xx_LL_Driver\Src\fm33lc0xx_ll_svd.c
+.\objects\fm33lc0xx_ll_svd.o: ..\Drivers\FM33LC0xx_LL_Driver\Inc\fm33lc0xx_ll_rcc.h
+.\objects\fm33lc0xx_ll_svd.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\fm33xx.h
+.\objects\fm33lc0xx_ll_svd.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\fm33lc0xx.h
+.\objects\fm33lc0xx_ll_svd.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\core_cm0plus.h
+.\objects\fm33lc0xx_ll_svd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\fm33lc0xx_ll_svd.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\core_cminstr.h
+.\objects\fm33lc0xx_ll_svd.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\core_cmfunc.h
+.\objects\fm33lc0xx_ll_svd.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\system_fm33lc0xx.h
+.\objects\fm33lc0xx_ll_svd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\fm33lc0xx_ll_svd.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\fm33lc0xx.h
+.\objects\fm33lc0xx_ll_svd.o: ..\Drivers\FM33LC0xx_LL_Driver\Inc\fm33lc0xx_ll_svd.h
+.\objects\fm33lc0xx_ll_svd.o: ..\Inc\fm33_assert.h

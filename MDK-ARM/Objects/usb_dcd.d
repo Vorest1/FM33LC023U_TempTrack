@@ -1,0 +1,15 @@
+.\objects\usb_dcd.o: ..\Middleware\USB\Core\src\usb_dcd.c
+.\objects\usb_dcd.o: ..\Middleware\USB\Core\inc\usb_dcd.h
+.\objects\usb_dcd.o: ..\Middleware\USB\Core\inc\usb_core.h
+.\objects\usb_dcd.o: ..\Middleware\USB\App\inc\usb_conf.h
+.\objects\usb_dcd.o: ..\Middleware\USB\Core\inc\usb_regs.h
+.\objects\usb_dcd.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\fm33lc0xx.h
+.\objects\usb_dcd.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\core_cm0plus.h
+.\objects\usb_dcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usb_dcd.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\core_cminstr.h
+.\objects\usb_dcd.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\core_cmfunc.h
+.\objects\usb_dcd.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\system_fm33lc0xx.h
+.\objects\usb_dcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\usb_dcd.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\fm33lc0xx.h
+.\objects\usb_dcd.o: ..\Middleware\USB\Core\inc\usb_defines.h
+.\objects\usb_dcd.o: ..\Middleware\USB\App\inc\usb_bsp.h

@@ -1,0 +1,12 @@
+.\objects\rtc_build_time_ll.o: ..\Src\rtc_build_time_ll.c
+.\objects\rtc_build_time_ll.o: ..\Inc\rtc_build_time_ll.h
+.\objects\rtc_build_time_ll.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\rtc_build_time_ll.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\rtc_build_time_ll.o: ..\Drivers\FM33LC0xx_LL_Driver\Inc\fm33lc0xx_ll_rtc.h
+.\objects\rtc_build_time_ll.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\fm33xx.h
+.\objects\rtc_build_time_ll.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\fm33lc0xx.h
+.\objects\rtc_build_time_ll.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\core_cm0plus.h
+.\objects\rtc_build_time_ll.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\core_cminstr.h
+.\objects\rtc_build_time_ll.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\core_cmfunc.h
+.\objects\rtc_build_time_ll.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\system_fm33lc0xx.h
+.\objects\rtc_build_time_ll.o: ..\Drivers\CMSIS\Device\FM\FM33xx\Include\fm33lc0xx.h
